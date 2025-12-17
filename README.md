@@ -1,29 +1,30 @@
-# Personal Portfolio
+# Personal Portfolio / Charlie Visual Lab
 
-An interactive and creative portfolio built with **React**.  
-This project focuses on clean UI, smooth motion, and thoughtful interaction to showcase projects, design work, and front-end experiments.
+This is my interactive portfolio showcasing my work under my creative brand **Charlie Visual Lab**, as well as other personal projects.  
+It features graphic design, UI/UX design, and editing work, all in one place, with smooth animations and responsive layouts.
 
 ## ✨ Features
-- Component-based layout using React
-- Smooth animations and transitions
-- Modern, responsive design
-- Scalable structure for future updates
+- Graphic design gallery
+- UI/UX showcase
+- Interactive elements with JavaScript
+- Modern responsive layout
 
 ## 🛠 Tech Stack
-- React
+- HTML
 - CSS / Tailwind CSS
-- Framer Motion
+- JavaScript
+- Optional: Framer Motion or GSAP for animations
 
 ## 📖 Learning & Development
-This project also serves as my **first hands-on experience using React in a real project**.  
-While building this portfolio, I am actively learning the framework, experimenting with best practices, and refining my front-end skills.
+This project serves as my **first hands-on experience building a fully interactive portfolio**.  
+While building it, I am actively learning JavaScript and experimenting with best practices for structure, interactivity, and design.
 
-The goal is to grow this project alongside my skills, improving structure, interactivity, and design over time.
+The goal is to grow this project alongside my skills, improving animations, responsiveness, and user experience over time.
 
 ## 🎯 Purpose
 This portfolio is designed as a living project — evolving as I learn more about front-end development, UI/UX design, and creative coding.
 
 ## 🚀 Getting Started
+1. Clone the repository:
 ```bash
-npm install
-npm start
+git clone <your-repo-link>
